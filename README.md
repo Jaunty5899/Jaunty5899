@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jaunty589920@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MHgM3NYmB7rGKBoOtn7NNxKVEgdqI6UO/view?usp=sharing](https://drive.google.com/file/d/1MHgM3NYmB7rGKBoOtn7NNxKVEgdqI6UO/view?usp=sharing)
+- 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/1MHgM3NYmB7rGKBoOtn7NNxKVEgdqI6UO/view?usp=sharing)
 
 - ⚡ Fun fact **I walk a lot.**
 
