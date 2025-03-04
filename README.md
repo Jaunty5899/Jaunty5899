@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/1MHgM3NYmB7rGKBoOtn7NNxKVEgdqI6UO/view?usp=sharing)
 
-- ⚡ Fun fact **I walk a lot.**
+- ⚡ Fun fact **If you are able to walk, then walk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
