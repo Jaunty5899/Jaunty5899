@@ -56,5 +56,3 @@
     </a>
 </p>
 
-<h3>Interview Failures: 4</h3>
-
