@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaunty K Luizson</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Weather App](https://jaunty5899.github.io/WeatherWebApp/)
+- 🔭 I’m currently working on [Whats App Clone](https://jaunty5899.github.io/WeatherWebApp/)
+- 
+- 🔭 I finished working on [Weather App](https://jaunty5899.github.io/WeatherWebApp/)
 
 - 🌱 I’m currently learning **ReactJS**
 
