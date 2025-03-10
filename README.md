@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Whats App Clone](https://jaunty5899.github.io/WeatherWebApp/)
   
-- 🔭 I finished working on [Weather App](https://jaunty5899.github.io/WeatherWebApp/)
+- ✔ I finished working on [Weather App](https://jaunty5899.github.io/WeatherWebApp/)
 
 - 🌱 I’m currently learning **ReactJS**
 
