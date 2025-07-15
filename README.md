@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jaunty589920@gmail.com**
 
-- 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/1Dhm65orJZ8MMm54yM6X9tNcbB7bW97fH/view?usp=sharing)
+- 📄 Know about my experiences [My CV Link](https://drive.google.com/file/d/10vfbrji8rAps3O20fW9H9B31rnfxklzB/view?usp=sharing)
 
 - ⚡ Fun fact: **If you are able to walk, then walk**
 
